@@ -1,6 +1,6 @@
 # Introduction to Artificial Intelligence
 
-My tutorial work for City's **Introduction to Artificial Intelligence** module.
+My tutorial work for **Introduction to Artificial Intelligence** module.
 
 ## Tutorials
 
