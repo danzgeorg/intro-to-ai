@@ -1,14 +1,5 @@
-cat > .gitignore << 'EOF'
-# Jupyter
 .ipynb_checkpoints/
-
-# Python
 __pycache__/
 *.pyc
-
-# Spyder
 .spyproject/
-
-# macOS
 .DS_Store
-EOF
