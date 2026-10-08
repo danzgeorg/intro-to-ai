@@ -1,7 +1,6 @@
 # Introduction to Artificial Intelligence
 
-My tutorial work for ** Introduction to Artificial Intelligence**.
-Each tutorial is in its own folder.
+My tutorial work for City's **Introduction to Artificial Intelligence** module.
 
 ## Tutorials
 
