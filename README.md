@@ -18,7 +18,7 @@ My tutorial work for **Introduction to Artificial Intelligence** module.
 
 ## Running the notebooks
 
-Replace tutorial1 with tutorial2 (and so on in the cd command below.
+Replace tutorial1 with tutorial2 (and so on) in the cd command below.
 
 ```bash
 git clone https://github.com/danzgeorg/intro-to-ai.git
