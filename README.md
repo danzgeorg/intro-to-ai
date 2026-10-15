@@ -1,6 +1,6 @@
 # Introduction to Artificial Intelligence
 
-My tutorial work for **Introduction to Artificial Intelligence** module.
+My tutorial and coursework work for **Introduction to Artificial Intelligence** module.
 
 ## Tutorials
 
