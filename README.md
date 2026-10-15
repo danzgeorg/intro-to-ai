@@ -16,6 +16,14 @@ My coursework and tutorial work for **Introduction to Artificial Intelligence** 
 - pandas, NumPy, SciPy, scikit-learn, matplotlib
 - TensorFlow (later in the module)
 
+## Setup
+
+The environment is in `intro_ai_env.yml` (Python 3.11):
+
+    conda env create -f intro_ai_env.yml
+    conda activate intro_ai
+    conda install pandas
+
 ## Running the notebooks
 
 Replace tutorial1 with tutorial2 (and so on) in the cd command below.
