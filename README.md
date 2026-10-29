@@ -9,6 +9,7 @@ My coursework and tutorial work for **Introduction to Artificial Intelligence** 
 | 1 | [Python and data](tutorial1/) | Python basics, pandas on the Auto MPG dataset, loop and iris exercises |
 | 2 | [Classification with scikit-learn](tutorial2/) | Perceptron on breast cancer, decision trees and k-fold on iris and wine, ID3 from scratch on zoo |
 | 3 | [Regression and SVMs](tutorial3/) | Linear regression on auto-mpg and diabetes (RMSE, R²), SVMs with kernels and soft margins, one-vs-one SVM on iris, SVR |
+| 4 | [Unsupervised learning](tutorial4/) | PCA for visualisation, denoising and speeding up an SVM, k-means and Gaussian mixture clustering, PCA + k-means + GMM on iris, PCA + SVM face recognition (85% accuracy) |
 
 ## Tools
 
