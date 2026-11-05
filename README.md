@@ -10,6 +10,7 @@ My coursework and tutorial work for **Introduction to Artificial Intelligence** 
 | 2 | [Classification with scikit-learn](tutorial2/) | Perceptron on breast cancer, decision trees and k-fold on iris and wine, ID3 from scratch on zoo |
 | 3 | [Regression and SVMs](tutorial3/) | Linear regression on auto-mpg and diabetes (RMSE, R²), SVMs with kernels and soft margins, one-vs-one SVM on iris, SVR |
 | 4 | [Unsupervised learning](tutorial4/) | PCA for visualisation, denoising and speeding up an SVM, k-means and Gaussian mixture clustering, PCA + k-means + GMM on iris, PCA + SVM face recognition (85% accuracy) |
+| 5 | [k-NN, random forests and naive Bayes](tutorial5/) | k-NN from scratch with weighted voting; random forests on mushrooms and digits; Gaussian and multinomial naive Bayes; tuned kNN vs random forest vs naive Bayes on breast cancer data |
 
 ## Tools
 
